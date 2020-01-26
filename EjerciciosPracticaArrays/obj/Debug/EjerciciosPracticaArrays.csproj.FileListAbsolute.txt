@@ -1,0 +1,10 @@
+C:\Users\Bruno\source\repos\EjerciciosPracticaArrays\EjerciciosPracticaArrays\bin\Debug\EjerciciosPracticaArrays.exe.config
+C:\Users\Bruno\source\repos\EjerciciosPracticaArrays\EjerciciosPracticaArrays\bin\Debug\EjerciciosPracticaArrays.exe
+C:\Users\Bruno\source\repos\EjerciciosPracticaArrays\EjerciciosPracticaArrays\bin\Debug\EjerciciosPracticaArrays.pdb
+C:\Users\Bruno\source\repos\EjerciciosPracticaArrays\EjerciciosPracticaArrays\obj\Debug\EjerciciosPracticaArrays.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\EjerciciosPracticaArrays\EjerciciosPracticaArrays\obj\Debug\EjerciciosPracticaArrays.Form1.resources
+C:\Users\Bruno\source\repos\EjerciciosPracticaArrays\EjerciciosPracticaArrays\obj\Debug\EjerciciosPracticaArrays.Properties.Resources.resources
+C:\Users\Bruno\source\repos\EjerciciosPracticaArrays\EjerciciosPracticaArrays\obj\Debug\EjerciciosPracticaArrays.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\EjerciciosPracticaArrays\EjerciciosPracticaArrays\obj\Debug\EjerciciosPracticaArrays.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\EjerciciosPracticaArrays\EjerciciosPracticaArrays\obj\Debug\EjerciciosPracticaArrays.exe
+C:\Users\Bruno\source\repos\EjerciciosPracticaArrays\EjerciciosPracticaArrays\obj\Debug\EjerciciosPracticaArrays.pdb
